@@ -1,0 +1,11 @@
+git init
+git add <file name>
+git commit -m "add comment"
+git status
+git branch
+git checkout <branch name>
+
+git add . [add all update work]
+git reset [cancel add update]
+git log [commit history]
+
